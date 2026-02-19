@@ -3,6 +3,17 @@ body {
     margin: 0;
     background-color: #f4f4f4;
 }
+nav {
+    background: #444;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
 
 header {
     background-color: #222;
